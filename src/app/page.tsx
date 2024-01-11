@@ -14,7 +14,7 @@ export default function Home() {
         />
       </div>
       <span className="py-24">App Deployed with AWS CDK</span>
-      <p className="py-5">Downgraded to Next13 bc Amplify only supports up to node16.19 as at (11/01/24)</p>
+      <p className="py-5">Downgraded to Next13 because Amplify only supports up to node18.13?? - as at (11/01/24)</p>
     </main>
   );
 }
