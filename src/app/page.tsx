@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
       </div>
-      <span className="py-24">App Deployed with AWS CDK - trial with manually setting node version override</span>
+      <span className="py-24">App Deployed with AWS CDK - last trial with manually setting node version override</span>
     </main>
   );
 }
