@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
       </div>
-      <span className="py-24">App Deployed with AWS CDK - last trial with manually setting node version override</span>
+      <span className="py-24">App Deployed with AWS CDK - downgraded to Next13 bc Amplify only supports up to node16.19 as at (11/01/24)</span>
     </main>
   );
 }
