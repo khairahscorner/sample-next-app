@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
       </div>
-      <span className="py-24">App Deployed with AWS CDK - again</span>
+      <span className="py-24">App Deployed with AWS CDK</span>
     </main>
   );
 }
